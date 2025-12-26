@@ -1,0 +1,3 @@
+| Screenshot | Screenshot | Screenshot |
+| --- | --- | --- |
+| <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-26 at 15 34 05" src="https://github.com/user-attachments/assets/d903aab9-be92-4826-95ce-fac6e6bb49fd" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-26 at 15 34 42" src="https://github.com/user-attachments/assets/e6f7daec-b6e9-4f5e-9d6a-b210906fdc27" /> | <img width="1206" height="2622" alt="Simulator Screenshot - iPhone 17 Pro - 2025-12-26 at 15 37 22" src="https://github.com/user-attachments/assets/8a9b86e1-8148-48b4-8ed9-94467df6cd13" /> |
